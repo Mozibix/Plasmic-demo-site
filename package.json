@@ -9,7 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.263",
     "@plasmicapp/loader-nextjs": "^1.0.260",
+    "@plasmicapp/react-web": "^0.2.198",
+    "@plasmicpkgs/commerce": "^0.0.124",
+    "@plasmicpkgs/commerce-swell": "^0.0.131",
+    "@plasmicpkgs/react-awesome-reveal": "^3.8.129",
+    "@plasmicpkgs/react-parallax-tilt": "^0.0.127",
     "@types/node": "18.16.0",
     "@types/react": "18.0.38",
     "@types/react-dom": "18.0.11",
